@@ -21,10 +21,10 @@ This repository contains a **basic TCP client** and **server** implementation in
 
 ```bash
 # Run the server
-go run server.go
+go run ./cmd/server
 
 # Run the client
-go run client.go
+go run ./cmd/client
 ```
 
 ## License
